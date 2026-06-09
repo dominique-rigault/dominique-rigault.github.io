@@ -17,4 +17,4 @@ comparaison avant/après SERM 2030.
 
 ## Contact
 ✉ dominique.rigault@outlook.com  
-🔗 [linkedin.com/in/dominiquerigault](www.linkedin.com/in/dominiquerigault)
+🔗 [linkedin.com/in/dominiquerigault]([www.linkedin.com/in/dominiquerigault](https://www.linkedin.com/in/dominiquerigault/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5NbRqvpiTrWt1XZl4YKIAQ%3D%3D))
