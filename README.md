@@ -28,10 +28,17 @@ Mesure de l'accessibilité aux centralités de la MRN par les modes bas carbone 
 
 - **Données** : OSM, GTFS, INSEE
 - **Démarche** : du besoin réel à la recommandation — cadrage, choix et traitement des données, analyse spatiale, restitution, aide à la décision
-- **Stack** : Python (GeoPandas, Folium, Kepler.gl), QGIS, SQL, cartographie, Machine Learning
+- **Stack** : Python (GeoPandas, OSMnx, gtfs_kit, Folium) · QGIS
 
-[**→ Carte interactive**](./cartes/arrets_2026_carte.html) · [Dépôt du projet](https://github.com/dominique-rigault/accessibilite-centralites-mrn)
-[**→ Carte interactive**](./cartes/accessibilite-mrn.html) · [Dépôt du projet](https://github.com/dominique-rigault/accessibilite-centralites-mrn)
+![Population par carreau de 200 m — Métropole Rouen Normandie](./cartes/carte_carreaux_population.png)
+
+*Population localisée (Filosofi 2021, carroyage 200 m). Classes en progression géométrique (doublement à chaque seuil), adaptées à une distribution fortement asymétrique.*
+
+![Arrêts de transport en commun — MRN et abords](./cartes/carte_arrets_2026.png)
+
+*Arrêts TC 2026 (GTFS ATOUMOD), colorés par mode. Réseau structurant (train, métro, TEOR) mis en avant par la taille et une palette accessible aux daltonismes ; desserte bus en trame de fond.*
+
+[**Explorer la carte interactive des arrêts**](./cartes/arrets_2026_carte.html) · [Dépôt du projet](https://github.com/dominique-rigault/accessibilite-centralites-mrn)
 
 ---
 
