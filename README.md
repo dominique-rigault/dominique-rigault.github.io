@@ -32,7 +32,7 @@ Mesure de l'accessibilité aux centralités de la MRN par les modes bas carbone 
 
 ![Population par carreau de 200 m — Métropole Rouen Normandie](./cartes/carte_carreaux_population.png)
 
-*Population localisée (Filosofi 2021, carroyage 200 m). Classes en progression géométrique (doublement à chaque seuil), adaptées à une distribution fortement asymétrique.*
+*Population localisée (Filosofi 2021, carroyage 200 m). Classes en progression géométrique (seuils informés par les ruptures naturelles), adaptées à une distribution fortement asymétrique.*
 
 ![Arrêts de transport en commun — MRN et abords](./cartes/carte_arrets_2026.png)
 
