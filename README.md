@@ -32,11 +32,11 @@ Mesure de l'accessibilité aux centralités de la MRN par les modes bas carbone 
 
 ![Population par carreau de 200 m — Métropole Rouen Normandie](./cartes/carte_carreaux_population.png)
 
-*Population localisée (Filosofi 2021, carroyage 200 m). Classes en progression géométrique (seuils informés par les ruptures naturelles), adaptées à une distribution fortement asymétrique.*
+*Population localisée (INSEE Filosofi 2021, carroyage 200 m). Classes en progression géométrique (seuils informés par les ruptures naturelles), adaptées à une distribution fortement asymétrique.*
 
 ![Arrêts de transport en commun — MRN et abords](./cartes/carte_arrets_2026.png)
 
-*Arrêts TC 2026 (GTFS ATOUMOD), colorés par mode. Réseau structurant (train, métro, TEOR) mis en avant par la taille et une palette accessible aux daltonismes ; desserte bus en trame de fond.*
+*Arrêts TC 2026 (GTFS ATOUMOD), colorés par mode. Réseau structurant (train, métro, TEOR) mis en avant par la taille et une palette accessible aux daltoniens, desserte bus en trame de fond.*
 
 [**Explorer la carte interactive des arrêts**](./cartes/arrets_2026_carte.html) · [Dépôt du projet](https://github.com/dominique-rigault/accessibilite-centralites-mrn)
 
