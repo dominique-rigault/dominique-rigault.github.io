@@ -34,9 +34,17 @@ Mesure de l'accessibilité aux centralités de la MRN par les modes bas carbone 
 
 *Population localisée (INSEE Filosofi 2021, carroyage 200 m). Classes en progression géométrique (seuils informés par les ruptures naturelles), adaptées à une distribution fortement asymétrique.*
 
-![Arrêts de transport en commun — MRN et abords](./cartes/carte_arrets_2026.png)
+![Isochrones vélo 15 min — Transports structurants MRN 2026](./cartes/carte_aires_15mn_velo.png)
 
-*Arrêts TC 2026 (GTFS ATOUMOD), colorés par mode. Réseau structurant (train, métro, TEOR) mis en avant par la taille et une palette accessible aux daltoniens, desserte bus en trame de fond.*
+*Zones atteignables à vélo en moins de 15 minutes depuis les arrêts structurants (Train, Métro, TEOR). Routage réel sur le réseau viaire OSM (Dijkstra), gradient 5/10/15 min.*
+
+![Accès des habitants aux transports structurants en 15 mn à pied — MRN 2026](./cartes/carte_accessibilite_pied_2026.png)
+
+*Meilleur niveau de desserte structurante atteignable à pied par carreau Filosofi 200 m. 453 000 habitants, MRN 2026.*
+
+![Accès des habitants aux transports structurants en 15 mn à vélo — MRN 2026](./cartes/carte_accessibilite_velo_2026.png)
+
+*Meilleur niveau de desserte structurante atteignable à vélo par carreau Filosofi 200 m. Le vélo quadruple l'accès ferroviaire : 265 000 habitants atteignent une gare, contre 63 000 à pied.*
 
 [**Explorer la carte interactive des arrêts**](./cartes/arrets_2026_carte.html) · [Dépôt du projet](https://github.com/dominique-rigault/accessibilite-centralites-mrn)
 
